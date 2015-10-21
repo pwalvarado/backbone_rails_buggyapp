@@ -11,6 +11,8 @@
 // about supported directives.
 //
 //= require jquery
+//= require bootstrap-sprockets
+//= require handlebars.runtime
 //= require ./libs/underscore
 //= require ./libs/backbone
 //= require ./app/buggy
