@@ -19,6 +19,7 @@ gem 'jquery-rails'
 gem 'bootstrap-sass', '~> 3.3.5'
 gem 'sass-rails', '~> 5.0'
 gem 'handlebars_assets'
+gem 'responders', '~> 2.0'
 
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
